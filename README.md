@@ -16,8 +16,8 @@
 * Небольшое количество анимаций, 
 * Главное меню, и анимированный экран загрузки.
 * Использование новой Input Unity системы.
-* URP 2D Light, настроенное двухмерное освещение, для создания темноты.
-* Цветокррекцию для улучшения общего освещения, цвета и настроения игры. 
+* UPR 2D Light, настроенное двухмерное освещение, для создания темноты.
+* UPR Post Processing, для улучшения общего освещения, цвета и настроения игры. 
 
 ## [Запустить прототип](https://danielgds.github.io/Darkness_Dungeons--Roguelike_Game/)
 
@@ -34,10 +34,10 @@
 * Minimap of the dungeon, and the health system.
 
 ### Slightly less important:
-* a Small number of animations,
+* A Small number of animations,
 * The main menu, and the animated loading screen.
 * Using the new Input Unity system.
-* URP 2D Light, customized two-dimensional lighting to create darkness.
-* Color correction to improve the overall lighting, color, and mood of the game.
+* Used URP 2D Light, customized two-dimensional lighting to create darkness.
+* Used UPR Post Processing to improve the overall lighting, color, and mood of the game.
 
 ## [Run prototype](https://danielgds.github.io/Darkness_Dungeons--Roguelike_Game/)
