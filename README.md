@@ -1,4 +1,4 @@
-# Darkness Dungeons -- Roguelike Game
+# Darkness Dungeons -- Roguelike Game Prototype
 ![alt_text](https://github.com/DanielGDS/Darkness_Dungeons--Roguelike_Game/blob/main/PreviewForRoguelike.gif?raw=true)
 ## Темнейшие Подземелья (Русское перевод прототипа)
 
