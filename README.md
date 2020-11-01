@@ -26,6 +26,17 @@
 
 ## [Запустить прототип](https://danielgds.github.io/Darkness_Dungeons--Roguelike_Game/)
 
+#### Управление:
+* W - Идти вверх
+* S - Идти вниз
+* A - Идти влево
+* D - Идти вправо
+##### Стрелочки на клавиатуре:
+* Стрелка вверх - Атаковать сверху
+* Стрелка вниз - Ататаковать снизу
+* Стрелка влево - Атакаковать слева
+* Стрелка вправо - Атаковать справа
+
 #
 # English description:
 * [ENG] My first experience in creating roguelike games, and at the same time another prototype, on which new ideas were tested, and a little work was done on the animation of individual elements of the game. / Will be added later with the prototype update.
@@ -46,3 +57,14 @@
 * Used UPR Post Processing to improve the overall lighting, color, and mood of the game.
 
 ## [Run prototype](https://danielgds.github.io/Darkness_Dungeons--Roguelike_Game/)
+
+#### Controls:
+* W - Go up
+* S - Go down
+* A - Go left
+* D - Go right
+##### Arrows on the keyboard:
+* Up Arrow - Attack from above
+* Down arrow - Attack from below
+* Left arrow - Attack from the left
+* Right arrow - Attack from the right
