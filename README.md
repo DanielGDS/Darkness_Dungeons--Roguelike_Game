@@ -1,5 +1,9 @@
 # Darkness Dungeons -- Roguelike Game Prototype
-![alt_text](https://github.com/DanielGDS/Darkness_Dungeons--Roguelike_Game/blob/main/PreviewForRoguelike.gif?raw=true)
+
+
+![alt_text](https://github.com/DanielGDS/Darkness_Dungeons--Roguelike_Game/blob/main/PreviewForRoguelikeAlpha2.gif?raw=true)
+
+
 ## Темнейшие Подземелья (Русское перевод прототипа)
 
 * [RU] Первый мой опыт в создании роуглайк игр, а заодно и еще один прототип, на котором были протестированы новые идеи, и произведена небольшая работа над анимацией отдельных элементов игры. / Будет добавлено позже с обновлением прототипа.
